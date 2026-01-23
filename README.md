@@ -1,3 +1,7 @@
+**License**: CC BY-NC-SA 4.0  
+商用利用禁止・改変時はクレジット必須♡  
+詳細は [LICENSE](LICENSE) ファイルを見てね！
+© Moco Pomerani 2026 All Rights Reserved.
 # JIN-Project
 Peace strategy "JIN-Project" and "JIN-ORDER" by Masano Takashi
 # 🕊️ JIN-Project: The "Nobody Cries" World Order
