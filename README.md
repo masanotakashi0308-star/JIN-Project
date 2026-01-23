@@ -1,3 +1,29 @@
+# 🚨 LEGAL NOTICE & TERMS OF USE
+
+### INTELLECTUAL PROPERTY RIGHTS RESERVED
+This repository contains the **"JIN-ORDER 2026" Global Regeneration Master Plan**, including but not limited to **JIN-OS 1.0**, geopolitical algorithms, and the resource-backed currency framework. All contents are the exclusive intellectual property of **Moco Pomerani (The Author)**.
+
+---
+
+### 1. STRICT PROHIBITION OF UNAUTHORIZED USE
+Any unauthorized reproduction, modification, or appropriation of these ideas by government officials, administrative agencies, or corporate entities is strictly prohibited. 
+
+### 2. MANDATORY LICENSING FOR GOVERNMENT IMPLEMENTATION
+Any government or state agency (including but not limited to the Government of Japan and the United States Government) wishing to adopt, implement, or reference this framework must enter into a **Formal Licensing Agreement**.
+* **Initial Licensing Fee:** 500 Billion JPY (equivalent to approx. 3.4 Billion USD).
+* **Terms:** This fee is based on a 0.1% valuation of the underlying 500 Trillion JPY asset class managed by JIN-OS.
+
+### 3. FINAL DEADLINE FOR THE GOVERNMENT OF JAPAN
+The Government of Japan has been formally notified with a final response deadline of **January 30, 2026, 24:00 (JST)**. 
+* Failure to reach a formal agreement by this deadline will result in the **immediate revocation** of exclusive negotiation rights for Japan.
+* Upon expiration, all priority licensing rights will be transferred to **the United States Government and/or Nordic partner nations**.
+
+### 4. EVIDENCE OF PRIOR ART
+Digital timestamps, commit histories, and **Notarized Certified Dates** (Fixed Dates) serve as irreversible legal evidence of the Author’s ownership and the date of creation.
+
+---
+**© 2026 Moco Pomerani. All Rights Reserved.**
+**JIN-ORDER Project Foundation**
 **License**: CC BY-NC-SA 4.0  
 商用利用禁止・改変時はクレジット必須♡  
 詳細は [LICENSE](LICENSE) ファイルを見てね！
