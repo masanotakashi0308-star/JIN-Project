@@ -4,6 +4,7 @@
 
 > **JIN-ORDERの正当性と技術仕様は、この公式白書に集約されています。**
 ---
+---
 ### INTELLECTUAL PROPERTY RIGHTS RESERVED
 This repository contains the **"JIN-ORDER 2026" Global Regeneration Master Plan**, including but not limited to **JIN-OS 1.0**, geopolitical algorithms, and the resource-backed currency framework. All contents are the exclusive intellectual property of **Moco Pomerani (The Author)**.
 
