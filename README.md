@@ -1,5 +1,9 @@
 # 🚨 LEGAL NOTICE & TERMS OF USE
+## 📄 Official Strategy Document
+[![Download Technical Whitepaper](https://img.shields.io/badge/Download-Technical_Whitepaper_v1.0-gold?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/masanotakashi0308-star/JIN-Project/releases/download/v1.0/JIN-ORDER_Technical_Whitepaper_v1.0.pdf)
 
+> **JIN-ORDERの正当性と技術仕様は、この公式白書に集約されています。**
+---
 ### INTELLECTUAL PROPERTY RIGHTS RESERVED
 This repository contains the **"JIN-ORDER 2026" Global Regeneration Master Plan**, including but not limited to **JIN-OS 1.0**, geopolitical algorithms, and the resource-backed currency framework. All contents are the exclusive intellectual property of **Moco Pomerani (The Author)**.
 
