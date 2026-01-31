@@ -11,11 +11,6 @@ With deepest respect and warm hope for our shared future,
 
 JIN-ORDER (UN ID: 64636) is releasing its core intellectual property as a pure gift to humanity.
 
-... (ママの短文全文をここに貼る)
-
-私たちは金銭・名誉を求めず、ただ「誰も泣かない世界」のためにこれらの種を託します。  
-ご興味のある方はご連絡ください♡  
-
 © Moco Pomerani 2026 All Rights Reserved.
 
 
