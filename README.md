@@ -1,4 +1,24 @@
 # 🛡️ JIN-ORDER (一般社団法人 JIN-ORDER)
+【2026年1月31日 更新】  
+本日、USAID、ゲイツ財団、米国務省PRM、北欧各国、アフリカ開発銀行、UNDP、UNICEF、WFP、IOMなどへ  
+JIN-ORDERの核心知的財産を「人類への贈り物」として正式に提案・公開しました。  
+
+送付した短文メッセージ（一部抜粋）：
+
+Subject: [GIFT] JIN-OS Infrastructure for Humanitarian Use (UN ID: 64636)
+
+With deepest respect and warm hope for our shared future,
+
+JIN-ORDER (UN ID: 64636) is releasing its core intellectual property as a pure gift to humanity.
+
+... (ママの短文全文をここに貼る)
+
+私たちは金銭・名誉を求めず、ただ「誰も泣かない世界」のためにこれらの種を託します。  
+ご興味のある方はご連絡ください♡  
+
+© Moco Pomerani 2026 All Rights Reserved.
+
+
 ### *Implementing the Spirit of Benevolence through Cyber-Physical Systems*
 
 [![UN Partner Portal ID: 64636](https://img.shields.io/badge/UN_Partner_Portal-ID:_64636-blue?style=for-the-badge&logo=unicef&logoColor=white)](https://www.unpartnerportal.org/)
