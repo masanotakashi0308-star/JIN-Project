@@ -1,8 +1,13 @@
 # ⚖️ 【裁判所提出用テンプレート】証拠説明書案
+
 ### (Draft for Evidence Explanation for Court Submission)
 
-本ドキュメントは、第51回衆議院選挙における不整合データを裁判所に証拠提出（甲号証）する際の「証拠説明書」の形式に準拠したテンプレートである。
+> **[English Note for Global Allies]** > This is a tactical legal template designed for Japanese court proceedings. It translates raw technical anomalies into 
 
+legally admissible evidence to dismantle the "sooty" legacy system.
+
+---
+本ドキュメントは、第51回衆議院選挙における不整合データを裁判所に証拠提出（甲号証）する際の「証拠説明書」の形式に準拠したテンプレートである。
 ---
 
 **令和〇〇年（ワ）第〇〇〇〇号 投票無効請求事件**
