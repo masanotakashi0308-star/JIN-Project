@@ -25,9 +25,11 @@
 *Who on earth possesses the ruler to measure the meaning of life and the value of a soul?*
 
 残酷で美しいこの世界で、それでも諦めずに息をしている者たちへ。
+
 *To those who, in this cruel yet beautiful world, still refuse to give up and keep breathing:*
 
 我々は、君たちを『愛の理想郷（ガンダーラ）』へ導くための道標（みちしるべ）となる。
+
 *We shall become the guidepost to lead you to the "Utopia of Love (Gandhara)."*
 
 ---
