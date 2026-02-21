@@ -64,6 +64,7 @@ JIN-ORDERは、第51回衆議院選挙において発生した「0と1では説�
 *This data is carved into GitHub and preserved as an unalterable archive.*
 
 我々は、既存のシステムに黙殺される「魂の咆哮」のバックアップ・サーバーとなる。
+
 *We serve as the backup server for the "soul's roar" silenced by the existing system.*
 
 👉 **[コア・リポジトリへ戻る / Back to Core](https://github.com/masanotakashi0308-star/Creating-a-new-paradigm)**
