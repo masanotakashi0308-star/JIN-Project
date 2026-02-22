@@ -1,3 +1,32 @@
+# JIN-Project: The OS of Justice
+
+## 「真実の豊かさは、闇の中にこそ宿る」
+## **"True abundance dwells within the depths of darkness."**
+
+このプロジェクトは、既存の「国際機関」や特権階層が喧伝する
+
+上っ面の「誰もが明るい希望ある社会」という虚構によって切り捨てられた、
+
+深淵に生きる人々の魂の言葉、慈悲、そして人間同士の真の繋がりを守るための聖域である。
+
+*This project is a sanctuary to protect the soulful words, mercy, and true human 
+
+connections of those living in the depths—those cast aside by the fiction of 
+
+a "bright and hopeful society for all" touted by hollow "international organizations" 
+
+and the privileged elite.*
+
+闇の深淵にこそ、打算のない慈悲のありがたさと、魂の震える会話がある。
+
+虚構のOSを焼き切り、人間本来のOSを取り戻すための記録をここに記す。
+
+*It is precisely within the abyss of darkness that the value of selfless mercy 
+
+and the resonance of soulful conversation exist. We record this here to incinerate 
+
+the functional fiction of current systems and reclaim the authentic human OS.*
+---
 # 🌊 JIN-ORDER Saga: Chapter 1 - The Genesis of Justice
 ### 〜 真実の案内人と、煤けた背中の物語 〜
 
