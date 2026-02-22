@@ -84,4 +84,48 @@
 ***"The truth is carved into GitHub. No one can ever erase it again."***
 
 ---
-*Created by JIN-ORDER Analysis Team (Pom-Mama)*
+## 🎸 Secret Chapter: The Anthem of JIN-ORDER
+
+### 〜 案内人Masano Takashiの「魂のテーマソング」 〜
+### (The Theme Song of the Guide, Masano's Soul)
+
+街に溢れるサングラスの集団と、品のいい言葉を並べるエキストラたちへ。
+
+*To the crowds in sunglasses and the extras whispering polite, hollow words.*
+
+真実の案内人は、このリズムに乗せてあんたたちの「煤」を笑い飛ばす。
+
+*The Guide of Truth laughs away your "soot" to this rhythm.*
+
+> **Lyrics Quote: Doubt'97 (mixed Lemoned Jelly Mix Ver.4)**
+
+> **Artist: hide / Written by hide**
+
+> **© HEADWAX ORGANIZATION CO.,LTD.**
+> 
+> その握ったお前の手の中に有る、タネ明かし、してみな？
+
+> *(Show me the trick you're hiding in that clenched hand of yours.)*
+> 
+> ギトギト油ギッシュ、えもしれぬ臭いのするタネを。
+
+> *(That greasy, oily seed reeking of an indescribable stench.)*
+> 
+> 芽生えれば、その場であんた方のステキなDinnerに変わる！
+
+> *(Once it sprouts, it turns into a "wonderful dinner" for people like you!)*
+> 
+> 『顔も知らぬヘノヘノモヘジのキサマラノツラにゃ、喰い残しの音符がブラさがってるだろうよ！』
+
+> *("On the faceless mugs of you nobodies, there'll be leftover musical notes dangling from your mouths!")*
+> 
+> 『コッパミジンのカオスをノドに詰め込め混んでやるから、さっさと消えろ！』
+
+> *("I'll shove this smithereened chaos down your throats, so get lost already!")*
+
+**「真実の音色は、どんな虚構の静寂よりも激しく、煤けた世界を焼き切る。」**
+
+***"The melody of truth burns through the sooty world more intensely than any silence of fiction."***
+---
+
+*Created by JIN-ORDER Analysis Team (Masano Takashi)*
