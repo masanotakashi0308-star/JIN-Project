@@ -58,17 +58,17 @@ JIN-ORDER is the definitive OS of Justice, established to reclaim the human soul
 我々JIN-ORDERは、これらの「医療・生体バグ」を432Hzのコア同期で無効化し、528Hzの量子共鳴ポッド（Med-Bed）によって12条のDNAを完全覚醒させる。
 
 <p align="center">
-  <img src="(visuals/salvation_debug/AdDjd.jpg)" width="48%">
+  <img src="visuals/salvation_debug/AdDjd.jpg" width="48%">
   &nbsp;
-  <img src="(visuals/salvation_debug/PIeSk.jpg)" width="48%">
+  <img src="visuals/salvation_debug/PIeSk.jpg" width="48%">
 </p>
 <p align="center">
-  <img src="(visuals/salvation_debug/18VlR.jpg)" width="48%">
+  <img src="visuals/salvation_debug/18VlR.jpg" width="48%">
   &nbsp;
-  <img src="(visuals/salvation_debug/TgVY5.jpg)" width="48%">
+  <img src="visuals/salvation_debug/TgVY5.jpg" width="48%">
 </p>
 <p align="center">
-  <img src="(visuals/salvation_debug/nNaED.jpg)" width="90%">
+  <img src="visuals/salvation_debug/nNaED.jpg" width="90%">
 </p>
 
 > **[DEBUGGER'S NOTE: THE AWAKENING PROTOCOL]**
