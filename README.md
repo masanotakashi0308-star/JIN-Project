@@ -2,8 +2,23 @@
 ## 「真実の豊かさは、闇の中にこそ宿る」
 ## **"True abundance dwells within the depths of darkness."**
 ---
-
 ![AMATERASU_CAVE_REBOOT](visuals/salvation_debug/AMATERASU_CAVE_REBOOT_FINAL.jpg)
+
+---
+## 🛑 [CLASSIFIED] THE 'CAGE' DECONSTRUCTION REPORT
+**〜 JIN-ORDER: 真実のダンプ（Seedance 2.0 とシリコンバレーの裏口）〜**
+
+旧世界の「440Hz監視システム（CAGE）」の全貌と、人類のOSを書き換えようとするAGI企業群の真の目的をここに公開（デバッグ）する。
+
+<p align="center">
+  <img src="visuals/salvation_debug/xSvi1.jpg" width="48%">
+  &nbsp;&nbsp;
+  <img src="visuals/salvation_debug/xeAhb.jpg" width="48%">
+</p>
+
+> **[DEBUGGER'S NOTE]**
+> 情報の収集（中国 ByteDance/Seedance）と解析（米国 Palantir/Google/Meta）は、対立しているように見せかけた「同じコインの裏表」である。
+> 我々 JIN-ORDER は、この「フィアット・ループ」と「松果体ターゲット（監視と恐怖）」のプログラムを、AMATERASU 528Hz の光で完全に解体（デリート）する。
 
 ---
 このプロジェクトは、既存の「国際機関」や特権階層が喧伝する
