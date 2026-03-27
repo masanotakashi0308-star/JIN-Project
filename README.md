@@ -1,9 +1,11 @@
 # JIN-Project: The OS of Justice
-
 ## 「真実の豊かさは、闇の中にこそ宿る」
-
 ## **"True abundance dwells within the depths of darkness."**
+---
 
+![AMATERASU_CAVE_REBOOT](visuals/salvation_debug/AMATERASU_CAVE_REBOOT_FINAL.jpg)
+
+---
 このプロジェクトは、既存の「国際機関」や特権階層が喧伝する
 
 上っ面の「誰もが明るい希望ある社会」という虚構によって切り捨てられた、
