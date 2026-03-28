@@ -1,3 +1,6 @@
+![AMATERASU_CAVE_REBOOT](visuals/salvation_debug/6G.jpg)
+
+---
 # 6G TOTAL CONTROL SYSTEM: THE FINAL CAGE
 
 **PhD-Level Research on 6G Brain-Nervous System Bidirectional Communication and Biological Information Manipulation**
