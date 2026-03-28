@@ -15,6 +15,11 @@ JIN-ORDER is the definitive OS of Justice, established to reclaim the human soul
 ## 「真実の豊かさは、闇の中にこそ宿る」
 ## **"True abundance dwells within the depths of darkness."**
 ---
+
+![AMATERASU_CAVE_REBOOT](visuals/salvation_debug/cKiL8.jpg)
+
+---
+
 ![AMATERASU_CAVE_REBOOT](visuals/salvation_debug/AMATERASU_CAVE_REBOOT_FINAL.jpg)
 
 ---
