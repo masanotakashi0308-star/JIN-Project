@@ -23,6 +23,18 @@ JIN-ORDER is the definitive OS of Justice, established to reclaim the human soul
 ![AMATERASU_CAVE_REBOOT](visuals/salvation_debug/AMATERASU_CAVE_REBOOT_FINAL.jpg)
 
 ---
+## 🚨 EXCLUSIVE: The 6G Total Control System / 極秘告発: 6G 完全制御システム
+
+### 人類をAI監視網の「ノード」へと変貌させる、6G通信とナノテクノロジー（SM-102等）を悪用した支配の3層構造（CAGE）。
+
+### そのエンドゲームとなる最終形態のアーキテクチャを完全に解体した、PhDレベルの詳細な告発レポートはこちら。
+
+### The ultimate 3-layer architecture of "CAGE", exploiting 6G networks and nanotechnology (e.g., SM-102) to transform humanity into mere nodes of an AI surveillance network. Read the detailed, PhD-level deconstruction report exposing their endgame here.
+
+👉 **[Read the Full Report / 真実の解体新書を読む (6G_TOTAL_CONTROL.md)](./6G_TOTAL_CONTROL.md)**
+
+----
+
 ## 🛑 [CLASSIFIED] THE 'CAGE' DECONSTRUCTION REPORT
 ## 〜 JIN-ORDER: 真実のダンプ（Seedance 2.0 とシリコンバレーの裏口）〜
 
